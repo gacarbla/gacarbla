@@ -22,7 +22,7 @@
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
 ![Power Point](https://img.shields.io/badge/-Power_Point-05122A?style=flat&logo=microsoft-powerpoint)&nbsp;
 ![Word](https://img.shields.io/badge/-Word-05122A?style=flat&logo=microsoft-word)&nbsp;
-![Access](https://img.shields.io/badge/-Access-05122A?style=flat&logo=microsoft-access)&nbsp; \
+<!--![Access](https://img.shields.io/badge/-Access-05122A?style=flat&logo=microsoft-access)&nbsp; \-->
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
