@@ -11,9 +11,8 @@
 ## Mis conocimientos
 ![JS](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML 5](https://img.shields.io/badge/-HTML_5-05122A?style=flat&logo=HTML5)&nbsp; 
-![CSS 3](https://img.shields.io/badge/-CSS_3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![CSS 3](https://img.shields.io/badge/-CSS_3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; <!--![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp; -->
 ![Gitub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=important)&nbsp; \
