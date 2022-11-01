@@ -15,14 +15,14 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp; -->
 ![Gitub](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=important)&nbsp; \
-![Inkscape](https://img.shields.io/badge/-Inkscape-05122A?style=flat&logo=inkscape)&nbsp;
-![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft-office)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
-![Power Point](https://img.shields.io/badge/-Power_Point-05122A?style=flat&logo=microsoft-powerpoint)&nbsp;
-![Word](https://img.shields.io/badge/-Word-05122A?style=flat&logo=microsoft-word)&nbsp;
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=important)&nbsp;
+<!--![Inkscape](https://img.shields.io/badge/-Inkscape-05122A?style=flat&logo=inkscape)&nbsp;-->
+<!--![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;-->
+<!--![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;-->
+<!--![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-05122A?style=flat&logo=microsoft-office)&nbsp;-->
+<!--![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;-->
+<!--![Power Point](https://img.shields.io/badge/-Power_Point-05122A?style=flat&logo=microsoft-powerpoint)&nbsp;-->
+<!--![Word](https://img.shields.io/badge/-Word-05122A?style=flat&logo=microsoft-word)&nbsp;-->
 <!--![Access](https://img.shields.io/badge/-Access-05122A?style=flat&logo=microsoft-access)&nbsp; \-->
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=white)&nbsp;
