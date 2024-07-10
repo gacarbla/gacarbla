@@ -1,6 +1,5 @@
 <h1>GACARBLA</h1>
 <div>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31k2xuzibkfcpzhuottq6kgpigpy&redirect=true"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31k2xuzibkfcpzhuottq6kgpigpy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
   <p>¡Hola!<br>Soy Gabriel, un programador aficcionado y autodidacta.<br>Espero que te gusten mis proyectos, siéntete libre de participar o colaborar en ellos.</p>
 </div>
 <div>
