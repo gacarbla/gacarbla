@@ -15,5 +15,6 @@
   <ul>
     <li><a href="https://discord.com/users/643575943289634836">Discord (@gacarbla)</a></li>
     <li><a href="https://instagram.com/gacarbla">Instagram (@gacarbla)</a></li>
+    <li><a href="https://t.me/gacarbla">Telegram (@gacarbla)</a></li>
   </ul>
 </div>
